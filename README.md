@@ -1,0 +1,1 @@
+An engaging and interactive game crafted to boost children's object recognition and language abilities. Players are tasked with matching an animal's name to its corresponding image from a grid of 16 animals. Instant feedback enhances the learning experience: Correct matches lead to a Win, while incorrect ones result in a Lose.
